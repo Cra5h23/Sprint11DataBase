@@ -14,11 +14,12 @@
    - [Таблица status](https://github.com/Cra5h23/Sprint11DataBase/edit/main/README.md#%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0-status-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D1%81%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%BE%D0%B2-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9)
 
 3. [Примеры запросов.](https://github.com/Cra5h23/Sprint11DataBase/edit/main/README.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2)
-   - [Получение всех фильмов]()
-   - [Получение фильма по id]()
-   - [Получение списка самых популярных фильмов, c колличеством фильмов count]()
-   - [Получение всех пользователей]()
-   - [Получение пользователя по id]()
+   - [Получение всех фильмов](https://github.com/Cra5h23/Sprint11DataBase/blob/main/README.md#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D1%81%D0%B5%D1%85-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2)
+   - [Получение фильма по id](https://github.com/Cra5h23/Sprint11DataBase/edit/main/README.md#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0-%D0%BF%D0%BE-id)
+   - [Получение списка самых популярных фильмов, c колличеством фильмов count](https://github.com/Cra5h23/Sprint11DataBase/edit/main/README.md#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%81%D0%B0%D0%BC%D1%8B%D1%85-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2-c-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%BC-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2-count)
+   - [Получение всех пользователей](https://github.com/Cra5h23/Sprint11DataBase/edit/main/README.md#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D1%81%D0%B5%D1%85-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9)
+   - [Получение пользователя по id](https://github.com/Cra5h23/Sprint11DataBase/edit/main/README.md#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%BF%D0%BE-id)
+
 ### Схема базы данных.
 ![Sprint11DataBAse drawio](https://github.com/Cra5h23/Sprint11DataBase/assets/145023705/e0a3972d-c9da-4ad6-9bd5-4e1d858aa016)
 
