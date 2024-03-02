@@ -57,3 +57,9 @@
   SELECT *
   FROM films
   ```
+- Получение фильма по id
+  ```SQL
+  SELECT *
+  FROM films f
+  WHERE f.film_id = 
+  ```
