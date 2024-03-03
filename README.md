@@ -102,3 +102,4 @@
   FROM users u
   WHERE u.user_id = id
   ```
+*Удалить
